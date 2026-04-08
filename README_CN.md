@@ -42,6 +42,10 @@
 
 ---
 
+适用范围: 
+- 以request计费的coding plan.
+- 希望控制AI行动的开发者.
+
 ## 🔥 前后对比
 
 | ❌ 没有 Flag MCP | ✅ 有 Flag MCP |

@@ -56,6 +56,10 @@ This transforms AI coding from "hope it works" into **a narrative where you hold
 
 ---
 
+Scope of Application:
+- Coding plans billed on a per-request basis.
+- Developers who wish to control AI behavior.
+
 ## 🔥 Before & After
 
 | ❌ Without Flag MCP | ✅ With Flag MCP |
