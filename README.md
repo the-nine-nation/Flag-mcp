@@ -178,13 +178,6 @@ Before finishing a task, call interactive_feedback once more for final confirmat
 - ✅ Async fetch keeps UI responsive
 - ✅ Local files read only when explicitly referenced
 
----
-
-## 🙏 Acknowledgements
-
-- **Original Creator**: Fábio Ferreira ([@fabiomlferreira](https://x.com/fabiomlferreira))
-- **Enhanced by**: Pau Oliva ([@pof](https://x.com/pof))
-- **Inspired by**: [interactive-mcp](https://github.com/ttommyth/interactive-mcp) by Tommy Tong
 
 ---
 

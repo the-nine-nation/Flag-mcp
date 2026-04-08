@@ -164,14 +164,6 @@ uv sync
 
 ---
 
-## 🙏 致谢
-
-- **原作者**：Fábio Ferreira ([@fabiomlferreira](https://x.com/fabiomlferreira))
-- **增强者**：Pau Oliva ([@pof](https://x.com/pof))
-- **灵感来源**：Tommy Tong 的 [interactive-mcp](https://github.com/ttommyth/interactive-mcp)
-
----
-
 ## 📄 许可证
 
 MIT 许可证 —— 随便 fork，随便立旗，随便发。
